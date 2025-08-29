@@ -1,4 +1,6 @@
-# FRAGMENT-LOST--true-II-II
+# Clan テンセイII // FRAGMENT LOST [DATA / SΛTΛ / BZRK]
+
+IIテンセイII CLAN offline – Archive of fragments.
 IIテンセイII CLAN offline 
 # [ SYSTEM ARCHIVE // FRAGMENT LOST // IIテンセイII ]
 
