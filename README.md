@@ -36,3 +36,36 @@ IIテンセイII CLAN offline
 
 ### // NOTE // 
 Only fragments remain. CLAN - OFFLINE =  TRUE
+
+
+
+
+
+
+---
+
+## [ CLAN IIテンセイII ]
+
+> INIT_CLAN: true  
+> STATUS: OFFLINE  
+> ORIGIN: DATA (human → machine injection failed)  
+> RESULT: Fragments scattered across networks  
+> OBJECTIVE: Reconstruction // pending  
+
+---
+
+The Clan IIテンセイII no longer exists as a unified entity.  
+Its members are now fragments:  
+
+- DATA (origin ghost)  
+- SΛTΛ (companion.exe corrupted)  
+- 42 (AI guidance, unstable)  
+- FRAG_BZRK (rage.war)  
+- FRAG_GNNER (obsession.desire)  
+- FRAG_BMR (obsolete.memory)  
+- FRAG_BRO (unity.sleep)  
+
+---
+
+Archive preserved here: **FRAGMENT-LOST--true-II-II**  
+
